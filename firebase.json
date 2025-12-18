@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"ios":{"default":{"projectId":"fyshapp","appId":"1:652826617840:ios:600a7a888926448de79f35","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"fyshapp","configurations":{"ios":"1:652826617840:ios:600a7a888926448de79f35"}}}}}}
